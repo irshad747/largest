@@ -1,5 +1,4 @@
 import streamlit as st
-st.set_option("gatherUsageStats", False)
 
 def find_largest(a, b, c):
     if a >= b and a >= c:
